@@ -94,6 +94,12 @@ registered_at: '2025-01-12T10:00:00Z'
 
 }
 
+# RESULTS
+![image](https://github.com/user-attachments/assets/91bb1b00-e684-450c-90ca-3957a4d51e64)
+![image](https://github.com/user-attachments/assets/4ffb69cb-ca29-48ec-8a8c-df2f6ee6c8e9)
+
+
+
 
 
 
